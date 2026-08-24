@@ -274,6 +274,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [FontGenerator.design](https://fontgenerator.design/) - Unicode-based text generator for bold, fancy, and other font-like effects.
 - [GlitchText.cool](https://glitchtext.cool/)- Unicode glitch/Zalgo text generator with adjustable distortion.
 - [Share Text Online With Link](https://share-text.org/) - Share Text Online With Link and QR Code
+- [Emojicons - Emoji, Kaomoji & Symbols Copy/Paste](https://www.getemojicons.com) - Find and copy emojis, kaomoji, symbols, and ready-made combinations
+- [MBOX Converter](https://www.mboxconverter.net) - Open, inspect, convert, and export MBOX files locally
+- [Online Keyboards](https://www.onlinekeyboards.net) - Type in languages online with free virtual keyboards
+
 
 ### Automating browser
 
@@ -659,7 +663,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [EquityZen](https://equityzen.com/) - Allows you to invest or sell shares in the secondary market with EquityZen funds.
 - [WTF Happened in 1971](https://wtfhappenedin1971.com/) - Website exploring and highlighting various economic, social, and financial events that occurred in the year 1971.
 - [Ergodicity Economics](https://ergodicityeconomics.com/) - Website providing insights into Ergodicity Economics and related concepts.
-
+- [Inventorily - Inventory Tag & Barcode Label Generator](https://www.inventorily.net) - Create inventory barcode labels, warehouse tags, asset labels, and photo reports
 ## Business
 
 - [Crunchbase](https://www.crunchbase.com/) - A platform for discovering innovative companies, startups, and key individuals in the business world. Provides comprehensive data and insights about companies, investments, and industry trends.
